@@ -43,19 +43,15 @@
 		margin: 3% 10%;
 		padding: 20px;
 	}
-
 </style>
 </head>
 <body>
 	<div class="beach"></div>
-	
 	<h1>Our 2025 Year</h1>
 	<p>This website is to commemorate a year of knowing each other and our journey together. I know how many problems I’ve caused you more downs than ups, but I truly enjoyed my year with you. I wish you nothing but happiness, and I’ll be supporting you no matter what. The content is very much lacking as my previous laptop was damaged and all the data was lost. I hope you still like this. I wish you a happy new year, I pray eveyone great health and good fortune. you always are amazing</p>
-	
 	<div class="border">
 	<details>
         <summary>Art of us</summary>
-
 	<img src="https://media.discordapp.net/attachments/1394351342956318850/1407688553449787442/Screenshot_2025-08-14_203729.png?ex=695460e0&is=69530f60&hm=9f6840bd74d76a996546a5c88677ac245d4b4c516c2e6d2737c8d079d9e59e25&=&format=webp&quality=lossless">
 	<p>
 	<img src="https://media.discordapp.net/attachments/1394351342956318850/1406625667914797116/image.png?ex=6954777d&is=695325fd&hm=c431395a7676963d5a114852ceb1053108dc8d16b016a7cdca6c89fbb19fbad4&=&format=webp&quality=lossless">
@@ -104,7 +100,6 @@
 	</details>
 	</div>
 	<p>
-
 	<div class="border">
 	<details>
         <summary>Videos</summary>
@@ -114,7 +109,6 @@
 	</details>
 	</div>
 	<p>
-
 	<div class="border">
 	<details>
         <summary>Random pictures</summary>
@@ -153,7 +147,6 @@
 	<img src="https://media.discordapp.net/attachments/1394351223972565075/1455511991023042590/image.png?ex=6954feac&is=6953ad2c&hm=d0e5348bceee0ec2a0e7ed067cd314c5b86f343a9bc16e9f920650a878b0ab46&=&format=webp&quality=lossless">
 	</details>
 	</div>
-
 	<div class="border">
 	<details>
         <summary>Credits</summary>
@@ -162,7 +155,6 @@
 	<p>Ng Jia Rhui</p>
 	<p>"Mr Aura man himself also known as the one man circle"</p>
 	<img src="https://media.discordapp.net/attachments/1394351223972565075/1455493450597273672/Messenger_creation_C8734FFA-0F05-4104-8A49-A0D4930E2412.png?ex=6954ed68&is=69539be8&hm=938b5c4956ad44ee78bc8a96fae942d92b20ad6379d8997f2a0fe884cca1262d&=&format=webp&quality=lossless">
-
 	</details>
 	</div>
 </body>
