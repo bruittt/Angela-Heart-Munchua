@@ -1,16 +1,12 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>Angela Heart Munchua</title>
 <style>
-
 	body {
 		margin: 0;
                 padding: 0;
 		color: white;
 		text-align: center;
 		}
-        
 	.beach {
 		position: fixed;
 		width: 100vw;
@@ -18,24 +14,22 @@
 		z-index: -1; 
 		background: linear-gradient(
 			#081c42 0% 23%,
-                	#142a54 23% 43%,
+            #142a54 23% 43%,
 			#243b69 43% 53%,
 			#5f7299 53% 58%,
 			#8f9db8 58% 60%,
-                	#243b69 60% 70%,
-                	#5f7299 70% 75%,
-                	#8f9db8 75% 78%,
+            #243b69 60% 70%,
+            #5f7299 70% 75%,
+            #8f9db8 75% 78%,
 			#afbedb 78% 80%,
-                	#a08665 80% 86%,
+            #a08665 80% 86%,
 			#AB967B 86% 90%,
 			#b5a591 90% 100%
 			);
 		}
-
 	 .content {
 		z-index: 1;
 		}
-
 	.border {
 		background: rgba(0, 0, 0, 0.3);
 		border: 5px solid rgba(135, 206, 235, 0.1);
